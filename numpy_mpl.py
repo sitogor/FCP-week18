@@ -15,3 +15,4 @@ y = [math.sin(xi) for xi in x]
 plt.plot(x, y)
 plt.show()
 
+print("hello world")
