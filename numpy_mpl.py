@@ -15,6 +15,6 @@ y = [math.sin(xi) for xi in x]
 plt.plot(x, y)
 plt.show()
 
-print("fuck otis")
+print("screw you")
 
 # This is a comment about some code we wrote or something like that lmao
