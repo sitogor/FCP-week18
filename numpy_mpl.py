@@ -16,3 +16,5 @@ plt.plot(x, y)
 plt.show()
 
 print("hello world")
+
+# This is a comment about some code we wrote or something like that lmao
